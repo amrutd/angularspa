@@ -1,0 +1,169 @@
+
+
+/* Margin css */
+
+.common-margin-xs{
+	margin: 10px;
+}
+
+.common-margin-sm{
+	margin: 20px;
+}
+
+.common-margin-md{
+	margin: 30px;
+}
+
+.common-margin-lg{
+	margin: 40px;
+}
+
+.common-margin-xlg{
+	margin: 50px;
+}
+
+.margin-top-xs{
+	margin-top: 10px;
+}
+
+.margin-top-sm{
+	margin-top: 25px;
+}
+
+.margin-top-md{
+	margin-top: 35px;
+}
+
+.margin-top-lg{
+	margin-top: 50px;
+}
+
+.margin-top-xlg{
+	margin-top: 75px;
+}
+
+.margin-top-xxlg{
+	margin-top: 100px;
+}
+
+.margin-top-xxxlg{
+	margin-top: 125px;
+}
+
+
+
+.margin-bottom-xs{
+	margin-bottom: 15px;
+}
+
+.margin-bottom-sm{
+	margin-bottom: 25px;
+}
+
+.margin-bottom-md{
+	margin-bottom: 35px;
+}
+
+.margin-bottom-lg{
+	margin-bottom: 50px;
+}
+
+.margin-bottom-xlg{
+	margin-bottom: 75px;
+}
+
+.margin-bottom-xxlg{
+	margin-bottom: 100px;
+}
+
+.margin-bottom-xxxlg{
+	margin-bottom: 125px;
+}
+
+
+/* ----- */
+
+.margin-left-xs{
+	margin-left: 15px;
+}
+
+.margin-left-sm{
+	margin-left: 25px;
+}
+
+.margin-left-md{
+	margin-left: 35px;
+}
+
+.margin-left-lg{
+	margin-left: 50px;
+}
+
+.margin-left-xlg{
+	margin-left: 75px;
+}
+
+
+/* Padding css */
+
+.common-padding-xs{
+	padding: 10px;
+}
+
+.common-padding-sm{
+	padding: 20px;
+}
+
+.common-padding-md{
+	padding: 30px;
+}
+
+.common-padding-lg{
+	padding: 40px;
+}
+
+.common-padding-xlg{
+	padding: 50px;
+}
+
+
+.padding-top-xs{
+	padding-top: 10px;
+}
+
+.padding-top-sm{
+	padding-top: 25px;
+}
+
+.padding-top-md{
+	padding-top: 35px;
+}
+
+.padding-top-lg{
+	padding-top: 50px;
+}
+
+.padding-top-xlg{
+	padding-top: 75px;
+}
+
+
+.padding-bottom-xs{
+	padding-bottom: 15px;
+}
+
+.padding-bottom-sm{
+	padding-bottom: 25px;
+}
+
+.padding-bottom-md{
+	padding-bottom: 35px;
+}
+
+.padding-bottom-lg{
+	padding-bottom: 50px;
+}
+
+.padding-bottom-xlg{
+	padding-bottom: 75px;
+}
