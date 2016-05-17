@@ -1,0 +1,42 @@
+<html ng-app="testApp">
+  <head>
+    <meta charset="utf-8">
+    <title>Angular.js Example</title>
+    
+    <!-- Externals Css Links -->
+	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+      
+    
+    
+  </head>
+  <body >
+    <div class="container">
+        <div class="row" ng-controller="NameCtrl" >
+            <p style="padding-left:20px;"><b>Single module</b></p>
+            <div class="col-lg-4" style="padding:20px;">
+            First name:<input ng-model="firstName" type="text"/>
+            <br/>
+                <br/>
+            Last name:<input ng-model="lastName" type="text"/>
+            <br/><br/><br/>
+        Hello {{firstName}} {{lastName}}
+            </div>
+          </div>
+    </div>
+      
+    <!-- Externals Js Links -->
+    <script type="text/javascript" src="assets/js/jQuery.js"></script>
+    <script type="text/javascript" src="assets/js/angular.min.js"></script>
+    <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="assets/js/app.js"></script>
+      
+      <script>
+      var testApp = angular.module('testApp', []);
+      testApp.controller('NameCtrl', function ($scope){
+        $scope.firstName = 'John';
+        $scope.lastName = 'Smith';
+      });
+    </script>
+  </body>
+</html>
